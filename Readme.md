@@ -1,6 +1,6 @@
 # The RGB Matrix Space Invaders
 
-This project started during the 2020 Chrismas after I bought an RGB Matrix to play around. My goal with this game is to put the matrix in use and learn how to build a video game from scratch (without help of any framwork).
+This project started during the 2020 Chrismas after I bought an RGB Matrix to play around. My goal with this game is to put the matrix in use and learn how to build a video game from scratch (without help of any framwork). You can also find this project with some more detailed instructions at [Make: Projects](https://makeprojects.com/project/led-space-invaders).
 
 
 Running in the Raspberry Pi
